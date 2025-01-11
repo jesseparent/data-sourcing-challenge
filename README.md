@@ -33,15 +33,15 @@ This project retrieves CME and GST data from the NASA DONKI API (https://api.nas
 ## Setup and Requirements
 
 ### Prerequisites
-Ensure you have the following installed:
-- Python 3.9+
-- Pip
+To run the analysis, ensure you have:
+- **Python**: Version 3.10 or later.
+- **Jupyter Notebook** or **JupyterLab**.
+- The following Python library:
+  - `pandas`
 
-### Required Libraries
-Install the required libraries by running the following command:
-
+Install required libraries using:
 ```bash
-pip install -r requirements.txt
+pip install pandas
 ```
 
 ### Environment Variables
